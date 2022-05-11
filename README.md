@@ -6,7 +6,7 @@
   </u></i></h3>
 <p align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,wordpress"/>
     <br>
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs"/>
     <br>
