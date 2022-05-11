@@ -3,12 +3,12 @@ h1eroGlyph/h1eroGlyph is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align = "center"><b>
+<h1 align = "center"><b>
   I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
-  </b></h2>
-  <h3 align = "center"><i>
+  </b></h1>
+  <h2 align = "center"><i>
   Some of the things I know how to do:
-  </i></h3>
+  </i></h2>
 <p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery"/>
