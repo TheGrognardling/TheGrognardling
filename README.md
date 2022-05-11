@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
     <br>
     <img src="https://skillicons.dev/icons?i=java,python"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=bash,git"/>
+    <img src="https://skillicons.dev/icons?i=bash,git,vim,latex"/>
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,vim,latex"/>
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi"/>
   </a>
 </p>
