@@ -12,7 +12,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=bash,git,vim,latex"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/>
     <br>
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd,plan9"/>
   </a>
