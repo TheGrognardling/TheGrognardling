@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd"/>
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd,plan9"/>
   </a>
 </p>
