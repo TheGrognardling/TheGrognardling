@@ -1,5 +1,5 @@
 <h1 align = "center"><b>
-  I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
+  👋 I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
   </b></h1>
   <h2 align = "center"><i>
   Some of the things I know how to do:
