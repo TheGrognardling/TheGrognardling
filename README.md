@@ -8,11 +8,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/>
     <br>
     <img src="https://skillicons.dev/icons?i=bash,git,vim,latex"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
     <br>
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd,plan9"/>
   </a>
