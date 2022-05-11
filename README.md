@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,linux,vim,latex"/>
     <br>
     <img src="https://skillicons.dev/icons?i=java,python,bash"/>
+    <br>
     <img src="https://skillicons.dev/icons?i=discord,bots"/>
+    <br>
     <img src="https://skillicons.dev/icons?i=linux,vim,latex"/>
   </a>
 </p>
