@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs"/>
     <br>
     <img src="https://skillicons.dev/icons?i=bash,git,vim,latex"/>
     <br>
