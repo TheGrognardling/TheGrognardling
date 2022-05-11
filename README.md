@@ -8,6 +8,9 @@ You can click the Preview link to take a look at your changes.
   </b></p>
 <p align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,bash,discord,bots,linux,vim,latex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,discord,bots,linux,vim,latex"/>
+    <img src="https://skillicons.dev/icons?i=java,python,bash"/>
+    <img src="https://skillicons.dev/icons?i=discord,bots"/>
+    <img src="https://skillicons.dev/icons?i=linux,vim,latex"/>
   </a>
 </p>
