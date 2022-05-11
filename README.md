@@ -2,7 +2,7 @@
   👋 I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
   </b></h1>
   <h2 align = "center"><i>
-  Some of the things I know how to do:
+  Some of the cool things I can do:
   </i></h2>
 <p align = "center">
   <a href="https://skillicons.dev">
