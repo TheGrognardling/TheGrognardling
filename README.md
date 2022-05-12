@@ -11,9 +11,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell,git,vim,latex,markdown"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php"/>
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php"/>
     <br>
     <img src="https://skillicons.dev/icons?i=java,python,c,cpp"/> 
     <br>
