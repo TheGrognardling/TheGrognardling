@@ -9,7 +9,7 @@
   </u></i></h3>
 <p align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,git,vim,latex,markdown"/>
+    <img src="https://skillicons.dev/icons?i=powershell,bash,git,vim,latex,markdown"/>
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
     <br>
