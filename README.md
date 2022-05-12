@@ -1,6 +1,9 @@
 <h1 align = "center"><b>
-  👋 I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
+  👋 Hi, I’m Connor Morley, @CtMorl. This is for school/work as well as for my hobby projects.
   </b></h1>
+  <h3 align = "center"><u><i>
+  This is for school/work as well as for my hobby projects.
+  </u></i></h3>
   <h3 align = "center"><u><i>
   Some of the cool things I can do:
   </u></i></h3>
