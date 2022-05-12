@@ -4,9 +4,9 @@
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
   </u></i></h3>
-  <h3 align = "center"><u><i>
+  <h3 align = "center">
   Some of the cool things I can do:
-  </u></i></h3>
+  </h3>
 <p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,bash,git,vim,latex,markdown"/>
