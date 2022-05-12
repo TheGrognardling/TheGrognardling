@@ -15,7 +15,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=bash,powershell,git,vim,latex"/>
+    <img src="https://skillicons.dev/icons?i=bash,powershell,git,vim,latex,markdown"/>
     <br>
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd,plan9"/>
   </a>
