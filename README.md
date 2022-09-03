@@ -15,9 +15,9 @@
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,assembly"/> 
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd,plan9"/>
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd"/>
   </a>
 </p>
 	
