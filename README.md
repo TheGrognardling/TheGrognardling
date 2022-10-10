@@ -16,7 +16,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,php"/>
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/> 
     <br>
