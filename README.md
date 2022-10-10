@@ -13,7 +13,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/> 
     <br>
