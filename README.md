@@ -23,7 +23,3 @@
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd"/>
   </a>
 </p>
-	
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TheGrognardling&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGrognardling&langs_count=5&theme=tokyonight)]()
