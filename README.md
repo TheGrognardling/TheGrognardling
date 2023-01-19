@@ -2,7 +2,7 @@
   👋 Hey there, I’m Connor Morley, @TheGrognardling.
   </b></h1>
   <h3 align = "center"><u><i>
-  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in computer interfacing, operating systems, old software, and game engines (especially those of RPGs and MMOs)
+  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in language-learning models, human/computer interfacing, operating systems, old software, and game engines (especially those of RPGs and MMOs)
   </u></i></h3>
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
