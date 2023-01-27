@@ -18,7 +18,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php"/>
     <br>
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd"/>
   </a>
