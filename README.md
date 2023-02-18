@@ -2,11 +2,14 @@
   👋 Hey there, I’m Connor Morley, @TheGrognardling.
   </b></h1>
   <h3 align = "center"><u><i>
-  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in language-learning models, human/computer interfacing, operating systems, web development, old software, and game engines (especially those of RPGs and MMOs)
+  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in language-learning models, human/computer   interfacing, operating systems, web development, old software, and game engines (especially those of RPGs and MMOs)
   </u></i></h3>
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
   </u></i></h3>
+  <h4 align = "center"><u><i>
+  Right now I'm primarily working on gathering reference data for Wikipedia articles, and applying language-learning models to book summaries, for the Internet   Archive and its subsidiary the Open Library, respectively.
+  </u></i></h4>
   <h3 align = "center">
   Some of the cool things I can do:
   </h3>
