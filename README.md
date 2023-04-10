@@ -2,7 +2,7 @@
   👋 Hey there, I’m Connor Morley, @TheGrognardling.
   </b></h1>
   <h3 align = "center"><u><i>
-  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in AI (for natural language models, quantitative finance, and chess engines), web development, and operating systems.
+  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in AI (for natural language models, quantitative finance, and chess engines), web development, game engines, and operating systems.
   </u></i></h3>
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
