@@ -7,9 +7,6 @@
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
   </u></i></h3>
-  <h4 align = "center"><u><i>
-  Right now I'm primarily working on gathering reference data for Wikipedia articles, and applying language-learning models to book summaries, for the Internet   Archive and its subsidiary the Open Library, respectively.
-  </u></i></h4>
   <h3 align = "center">
   Some of the cool things I can do:
   </h3>
