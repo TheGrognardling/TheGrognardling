@@ -16,7 +16,7 @@ Greetings! I'm Connor, a dedicated student, researcher, and developer with a mul
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/> 
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,lisp"/> 
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php"/>
     <br>
