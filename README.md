@@ -14,12 +14,12 @@ Greetings! I'm Connor, a dedicated student, researcher, and developer with a mul
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,bash,git,emacs,vim,latex,markdown"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,stackoverflow"/> 
+    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,replit,stackoverflow,flask"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,lisp"/> 
+    <img src="https://skillicons.dev/icons?i=python,r,lua,processing,javascript,java,c,cpp,rust,zig,haskell"/> 
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,bsd"/>
+    <img src="https://skillicons.dev/icons?i=linux,arch,raspberrypi,bsd,plan9"/>
   </a>
 </p>
