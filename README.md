@@ -12,16 +12,16 @@ Greetings! I'm Connor, a dedicated student, researcher, and developer with a mul
   </h3>
 <p align = "center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,bash,git,emacs,vim,latex,markdown"/>
+    <img src="https://skillicons.dev/icons?i=powershell,bash,git,emacs,vim,neovim,vscode,vscodium,eclipse,latex,markdown"/>
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,docker,github,gitlab,replit,stackoverflow,flask"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=python,r,lua,processing,java,c,cpp,rust,zig"/> 
+    <img src="https://skillicons.dev/icons?i=python,r,lua,processing,java,c,cpp,rust,zig,haskell,matlab,solidity"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=haskell"/> 
+    <img src="https://skillicons.dev/icons?i=gradle,qt,pytorch,tensorflow,sklearn"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,wordpress,nginx,nodejs,javascript,react,php,mysql,sqlite"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,arch,nix,raspberrypi,bsd,plan9"/>
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,nix,raspberrypi,bsd,plan9"/>
   </a>
 </p>
