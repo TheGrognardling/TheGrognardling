@@ -2,7 +2,7 @@
   👋 Hey there, I’m Connor Morley, @TheGrognardling.
   </b></h1>
   <h3 align = "center"><u><i>
-  I'm just a guy with too many hobbies, including, of course, computers and programming. I'm particularly interested in AI (for natural language models, quantitative finance, and chess engines), web development, game engines, and operating systems.
+Greetings! I'm Connor, a dedicated student, researcher, and developer with a multifaceted focus spanning computational linguistics, AI, embedded systems, OSs, game development, and theoretical underpinnings like type theory, formal methods, and formal language theory. By leveraging AI techniques within game and application development, I craft immersive experiences while drawing upon theoretical foundations to inform practical applications. I'm enthusiastic about collaborating on impactful projects at the intersection of these domains.
   </u></i></h3>
   <h3 align = "center"><u><i>
   This is for school/work as well as for my hobby projects.
