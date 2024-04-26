@@ -14,7 +14,7 @@ Greetings! I'm Connor, a dedicated student, researcher, and developer with a mul
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,bash,git,emacs,vim,latex,markdown"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=discord,bots,github,gitlab,replit,stackoverflow,flask"/> 
+    <img src="https://skillicons.dev/icons?i=discord,bots,docker,github,gitlab,replit,stackoverflow,flask"/> 
     <br>
     <img src="https://skillicons.dev/icons?i=python,r,lua,processing,java,c,cpp,rust,zig"/> 
     <br>
