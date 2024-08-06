@@ -16,7 +16,7 @@ Greetings! I'm Thomas, a dedicated student, researcher, and developer with a mul
     <br>
     <img src="https://skillicons.dev/icons?i=discord,bots,docker,github,gitlab,replit,stackoverflow"/> 
     <br>
-    <img src="https://skillicons.dev/icons?i=python,r,lua,processing,java,c,cpp,rust,zig,haskell,matlab,solidity"/> 
+    <img src="https://skillicons.dev/icons?i=python,r,lua,processing,java,c,cpp,rust,zig,haskell,solidity"/> 
     <br>
     <img src="https://skillicons.dev/icons?i=gradle,qt,flask,pytorch,tensorflow,sklearn"/> 
     <br>
