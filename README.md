@@ -1,5 +1,6 @@
 <h1 align = "center"><b>
-  👋 Hey there, I’m Thomas, @TheGrognardling. I'm a => Multimedia Artist | AI Researcher | Software Developer 🚀
+  👋 Hey there, I’m Thomas, @TheGrognardling. I'm a => 
+Multimedia Artist | AI Researcher | Software Developer 🚀
   </b></h1>
   <h3 align = "center"><u><i>
     
