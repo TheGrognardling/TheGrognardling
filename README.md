@@ -1,8 +1,8 @@
 <h1 align = "center"><b>
-  👋 Hey there, I’m Thomas, @TheGrognardling.
+  👋 Hey there, I’m Thomas, @TheGrognardling. I'm a => Multimedia Artist | AI Researcher | Software Developer 🚀
   </b></h1>
   <h3 align = "center"><u><i>
-🚀 Multimedia Artist | AI Researcher | Software Developer
+    
 I am building the next-generation intelligence framework, an ever-expanding ecosystem of AI-augmented creativity, cognitive acceleration, and computational synthesis, all viewed through the lens of multimedia integration—where sound, text, visuals, code, and interaction converge into a unified creative paradigm. As a multimedia artist, AI researcher, and software developer, my work spans across:
 
 🎛️ AI & Computational Intelligence – Engineering machine learning models, symbolic AI, and neural architectures to power generative multimedia systems.
