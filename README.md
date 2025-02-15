@@ -25,9 +25,13 @@ Each of these domains does not exist in isolation but feeds into an overarching 
 
 This is an unfinished blueprint, a growing experiment in AI-powered multimedia synthesis, pushing the boundaries of how humans and machines co-create across sound, text, visuals, interaction, and computation.
 
+----
+
 🔧 Everything is in progress.
 🎛️ Everything is experimental.
 🛠️ Everything is evolving.
+
+---
 
 This is only the beginning. 🚀
   </u></i></h3>
