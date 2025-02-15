@@ -25,7 +25,11 @@ I am building the next-generation intelligence framework, an ever-expanding ecos
 <i>💻 Software Engineering & Systems Thinking</i>  – Architecting scalable, modular infrastructures for AI-assisted multimedia creation, automation, and cross-disciplinary integration.
 
 <i>🌀 Cognitive Science & Philosophy of Mind</i>  – Investigating consciousness, intelligence augmentation, and the intersection of AI with human creative cognition through the lens of multimedia synthesis.
+ </u></h4>
 
+ ---
+
+<h3 align = "center"><u>
 Each of these domains does not exist in isolation but feeds into an overarching multimedia systems approach, where AI-enhanced creativity is not just explored but engineered as an evolving ecosystem.
 
 This is an unfinished blueprint, a growing experiment in AI-powered multimedia synthesis, pushing the boundaries of how humans and machines co-create across sound, text, visuals, interaction, and computation.
@@ -36,8 +40,6 @@ This is an unfinished blueprint, a growing experiment in AI-powered multimedia s
 🎛️ Everything is experimental.
 🛠️ Everything is evolving.
 
----
-
 This is only the beginning. 🚀
 
-  </u></h4>
+  </u></h3>
