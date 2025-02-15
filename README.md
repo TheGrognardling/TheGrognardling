@@ -18,7 +18,7 @@ I am building the next-generation intelligence framework, an ever-expanding ecos
 
 <i>📜 Worldbuilding & Narrative Engineering</i>  – Designing AI-assisted storytelling, procedural lore systems, and interactive literary augmentation as a dynamic, computational art form.
 
-<i>🎨 Graphics, Visual Arts & Filmmaking</i>  – Exploring AI-powered visual synthesis, computational cinematography, and generative storytelling through interactive and cinematic media.
+<i>🎨 Graphics, Visual Arts, & Filmmaking</i>  – Exploring AI-powered visual synthesis, computational cinematography, and generative storytelling through interactive and cinematic media.
 
 <i>🔢 Mathematical & Computational Foundations</i>  – Structuring intelligence models, emergent complexity, and algorithmic creativity to fuel multimedia synthesis at scale.
 
