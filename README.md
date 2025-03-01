@@ -6,7 +6,7 @@
   </b></h1>
   
   <h3 align = "center"><u>
-I am building the next-generation intelligence framework, an ever-expanding ecosystem of AI-augmented creativity, cognitive acceleration, and computational synthesis, all viewed through the lens of multimedia integration—where sound, text, visuals, code, and interaction converge into a unified creative paradigm. As a multimedia artist, AI researcher, and software developer, my work spans across:
+I am building a next-generation intelligence framework, an ever-expanding ecosystem of AI-augmented creativity, cognitive acceleration, and computational synthesis, all viewed through the lens of multimedia integration—where sound, text, visuals, code, and interaction converge into a unified creative paradigm. As a multimedia artist, AI researcher, and software developer, my work spans across:
  </u></h3>
  
 ---
