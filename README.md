@@ -28,7 +28,7 @@ I am on a quest to build the next generation of intelligence frameworks, an ever
 
 ---
 
-<b><i>📂 Miscellaneous Projects</i></b> – Beyond my larger endeavors, I explore diverse side projects like interactive fiction engines, text-based games, dynamic music visualizers, AI-powered utilities, and experimental web tools. From hacking classic game engines to crafting custom scripting languages, these projects fuel my ongoing pursuit of creative computation and multimedia innovation.
+<b><i>📂 Miscellaneous Projects</i></b> – Beyond my larger endeavors, I explore diverse side projects like interactive fiction engines, text-based games, dynamic music visualizers, AI-powered utilities, GPU-enhanced mobile applications, and experimental web tools. From hacking classic game engines to crafting custom scripting languages, these projects fuel my ongoing pursuit of creative computation and multimedia innovation.
 
  </u></h4>
 
