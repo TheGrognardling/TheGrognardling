@@ -25,6 +25,11 @@ I am on a quest to build the next generation of intelligence frameworks, an ever
 <i>💻 Software Engineering & Systems Thinking</i>  – Architecting scalable, modular infrastructures for AI-assisted multimedia creation, automation, and cross-disciplinary integration.
 
 <i>🌀 Cognitive Science & Philosophy of Mind</i>  – Investigating consciousness, intelligence augmentation, and the intersection of AI with human creative cognition through the lens of multimedia synthesis.
+
+---
+
+<b><i>📂 Miscellaneous Projects</i></b> – Beyond my larger endeavors, I explore diverse side projects like interactive fiction engines, text-based games, dynamic music visualizers, AI-powered utilities, and experimental web tools. From hacking classic game engines to crafting custom scripting languages, these projects fuel my ongoing pursuit of creative computation and multimedia innovation.
+
  </u></h4>
 
  ---
