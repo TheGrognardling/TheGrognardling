@@ -2,12 +2,12 @@
 👋 Hey there, I’m Thomas (@TheGrognardling)
 </b></h1>
 
-<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Researcher in Cognitive Science ∧ Theoretical Computer Science ∧ Philosophy</h2>
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Researcher in Cognitive Science ∧ Theoretical Computer Science ∧ Linguistics ∧ Philosophy</h2>
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 
 <p style="font-family: 'Merriweather', serif;">
-I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>theoretical computer science</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
+I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>theoretical computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
 </p>
 
 ---
@@ -15,10 +15,10 @@ I am an undergraduate student building an integrated research framework at the i
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🧠 Research Interests</h2>
 
 - **Formalization of Cognition**  
-  Mathematical and computational models of inference, learning, perception, and decision-making.
+  Mathematical and computational models of inference, learning, perception, language, and decision-making.
 
 - **Computational Philosophy**  
-  Algorithmic and formal approaches to metaphysics, epistemology, and philosophy of mind.
+  Algorithmic and formal approaches to metaphysics, epistemology, philosophy of language, and philosophy of mind.
 
 - **Philosophy of Computation**  
   Foundational investigations into algorithms, complexity, proof, and information.
@@ -69,7 +69,7 @@ I am an undergraduate student building an integrated research framework at the i
 
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌱 Academic Trajectory</h2>
 
-- Building interdisciplinary expertise across cognitive science, philosophy, and computer science.
+- Building interdisciplinary expertise across cognitive science, philosophy, linguistics, and computer science.
 - Preparing for graduate research in formal methods, cognitive modeling, and computational philosophy.
 - Committed to bridging rigorous conceptual inquiry with technical modeling.
 
@@ -78,5 +78,5 @@ I am an undergraduate student building an integrated research framework at the i
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
 
 <p style="font-family: 'Merriweather', serif;">
-To contribute to a deeper understanding of cognition, computation, and reasoning through a blend of <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
+To contribute to a deeper understanding of cognition, computation, language, and reasoning through a blend of <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
 </p>
