@@ -1,16 +1,18 @@
-<h1 align="center"><b>
+<h1 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;"><b>
 👋 Hey there, I’m Thomas (@TheGrognardling)
 </b></h1>
 
-## 🚀 Researcher in Cognitive Science ∧ Theoretical Computer Science ∧ Philosophy
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Researcher in Cognitive Science ∧ Theoretical Computer Science ∧ Philosophy</h2>
 
-> `∀x ( (x ∈ Ideas) → (∃y (y ∈ Code ∧ y ≈ x)) )`
+> $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 
-I am an undergraduate student building an integrated research framework at the intersection of **cognitive science**, **theoretical computer science**, and **philosophy**, connecting **formal modeling**, **computational methods**, and **conceptual analysis**.
+<p style="font-family: 'Merriweather', serif;">
+I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>theoretical computer science</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
+</p>
 
 ---
 
-## 🧠 Research Interests
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🧠 Research Interests</h2>
 
 - **Formalization of Cognition**  
   Mathematical and computational models of inference, learning, perception, and decision-making.
@@ -23,7 +25,7 @@ I am an undergraduate student building an integrated research framework at the i
 
 ---
 
-## 🔬 Current Focus
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🔬 Current Focus</h2>
 
 - Formal cognitive modeling (symbolic and hybrid architectures)  
 - Logical systems (modal logic, type theory, non-classical logics)  
@@ -31,13 +33,16 @@ I am an undergraduate student building an integrated research framework at the i
 
 ---
 
-## 🛠 Technical Proficiencies
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
@@ -62,7 +67,7 @@ I am an undergraduate student building an integrated research framework at the i
 
 ---
 
-## 🌱 Academic Trajectory
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌱 Academic Trajectory</h2>
 
 - Building interdisciplinary expertise across cognitive science, philosophy, and computer science.
 - Preparing for graduate research in formal methods, cognitive modeling, and computational philosophy.
@@ -70,6 +75,8 @@ I am an undergraduate student building an integrated research framework at the i
 
 ---
 
-## 🌐 Long-Term Vision
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
 
-To contribute to a deeper understanding of cognition, computation, and reasoning through a blend of **formal rigor**, **philosophical clarity**, and **interdisciplinary integration**.
+<p style="font-family: 'Merriweather', serif;">
+To contribute to a deeper understanding of cognition, computation, and reasoning through a blend of <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
+</p>
