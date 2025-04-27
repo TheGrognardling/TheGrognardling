@@ -1,50 +1,36 @@
 <h2 align = "center"><b>
   👋 Hey there, I’m Thomas, @TheGrognardling. I'm a ➡️
 </b></h2>
-<h1 align = "center"><b>    
-  Multimedia Artist | AI Researcher | Software Developer 🚀
-  </b></h1>
-  
-  <h3 align = "center"><u>
-I am on a quest to build the next generation of intelligence frameworks, an ever-expanding ecosystem of AI-augmented creativity, cognitive acceleration, and computational synthesis, all viewed through the lens of multimedia integration—where sound, text, visuals, code, and interaction converge into a unified creative paradigm. As a multimedia artist, AI researcher, and software developer, my work spans across:
- </u></h3>
- 
----
-<h4 align = "center"><u>
 
-<i>🎛️ AI & Computational Intelligence</i> – Engineering machine learning models, symbolic AI, and neural architectures to power generative multimedia systems.
+# 🚀 Researcher => | Cognitive Science | Theoretical Computer Science | Philosophy
 
-<i>🎵 Generative & Algorithmic Music</i>  – Fusing AI-driven composition, neural synthesis, and algorithmic soundscapes to construct immersive, evolving auditory environments.
-
-<i>📜 Worldbuilding & Narrative Engineering</i>  – Designing AI-assisted storytelling, procedural lore systems, and interactive literary augmentation as a dynamic, computational art form.
-
-<i>🎨 Graphics, Visual Arts, & Filmmaking</i>  – Exploring AI-powered visual synthesis, computational cinematography, and generative storytelling through interactive and cinematic media.
-
-<i>🔢 Mathematical & Computational Foundations</i>  – Structuring intelligence models, emergent complexity, and algorithmic creativity to fuel multimedia synthesis at scale.
-
-<i>💻 Software Engineering & Systems Thinking</i>  – Architecting scalable, modular infrastructures for AI-assisted multimedia creation, automation, and cross-disciplinary integration.
-
-<i>🌀 Cognitive Science & Philosophy of Mind</i>  – Investigating consciousness, intelligence augmentation, and the intersection of AI with human creative cognition through the lens of multimedia synthesis.
+I am an undergraduate student developing an integrated research framework connecting cognitive science, theoretical computer science, and philosophy through formal modeling, computational methods, and conceptual analysis.
 
 ---
 
-<b><i>📂 Miscellaneous Projects</i></b> – Beyond my larger endeavors, I explore diverse side projects like interactive fiction engines, text-based games, dynamic music visualizers, AI-powered utilities, GPU-enhanced mobile applications, and experimental web tools. From hacking classic game engines to crafting custom scripting languages, these projects fuel my ongoing pursuit of creative computation and multimedia innovation.
-
- </u></h4>
-
- ---
-
-<h3 align = "center"><u>
-Each of these domains does not exist in isolation but feeds into an overarching multimedia systems approach, where AI-enhanced creativity is not just explored but engineered as an evolving ecosystem.
-
-This is an unfinished blueprint, a growing experiment in AI-powered multimedia synthesis, pushing the boundaries of how humans and machines co-create across sound, text, visuals, interaction, and computation.
+## 🧠 Research Interests
+- **Formalization of Cognition**: Building and critically evaluating mathematical and computational models of inference, learning, perception, and decision-making.
+- **Computational Philosophy**: Applying algorithmic and formal techniques to reframe classical problems in metaphysics, epistemology, and philosophy of mind.
+- **Philosophy of Computation**: Investigating foundational ideas—algorithm, complexity, proof, information—and their broader philosophical implications.
 
 ---
 
-🔧 Everything is in progress.
-🎛️ Everything is experimental.
-🛠️ Everything is evolving.
+## 🔬 Current Focus
+- Formal cognitive modeling (symbolic and hybrid architectures)
+- Logical systems (modal logic, type theory, non-classical logics)
+- Computational foundations of philosophical problems
+- Mastering technical tools: Python, Coq, Java, Scheme/Racket, C/C++, Rust, Lean, Haskell, Lisp, OCaml, Alloy
 
-This is only the beginning. 🚀
+---
 
-  </u></h3>
+## 🌱 Academic Trajectory
+- Actively building interdisciplinary expertise at the intersection of philosophy, computer science, and cognitive science.
+- Preparing for graduate research focused on formal methods, cognitive modeling, and computational foundations of philosophy.
+- Committed to developing integrative, rigorous scholarship that bridges conceptual inquiry with technical precision.
+
+---
+
+## 🌐 Long-Term Vision
+To contribute to a deeper understanding of cognition, computation, and reasoning through a blend of formal rigor, philosophical insight, and interdisciplinary integration.
+
+
