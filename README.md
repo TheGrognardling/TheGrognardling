@@ -33,7 +33,8 @@ I am an undergraduate student building an integrated research framework at the i
 - Formal cognitive modeling (symbolic and hybrid architectures)  
 - Logical systems (modal logic, type theory, non-classical logics)  
 - Computational foundations of philosophical problems  
-- Neural network architectures and learning dynamics  
+- Neural network architectures and learning dynamics
+- Applications of the above to various fields, such as law, business, and education
 
 ---
 
