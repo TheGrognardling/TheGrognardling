@@ -21,7 +21,7 @@ I am an undergraduate student building an integrated research framework at the i
   Algorithmic and formal approaches to metaphysics, epistemology, philosophy of language, and philosophy of mind.
 
 - **Philosophy of Computation**  
-  Foundational investigations into algorithms, complexity, proof, and information.
+  Foundational investigations (practical and theoretical) into algorithms, complexity, proof, and information.
 
 ---
 
