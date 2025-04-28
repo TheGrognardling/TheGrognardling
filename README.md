@@ -7,7 +7,7 @@
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 
 <p style="font-family: 'Merriweather', serif;">
-I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>theoretical computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
+I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
 </p>
 
 ---
