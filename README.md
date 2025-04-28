@@ -55,6 +55,7 @@ I am an undergraduate student building an integrated research framework at the i
 ![Coq](https://img.shields.io/badge/Coq-8B0000?style=flat-square&logoColor=white)
 ![Lean](https://img.shields.io/badge/Lean-3955A3?style=flat-square&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-3982C6?style=flat-square&logo=perl&logoColor=white)
 ![Alloy](https://img.shields.io/badge/Alloy-222222?style=flat-square&logoColor=white)
 ![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-DD1100?style=flat-square&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
