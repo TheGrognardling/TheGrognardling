@@ -2,7 +2,7 @@
 👋 Hey there, I’m Thomas (@TheGrognardling)
 </b></h1>
 
-<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Student + Researcher in Cog-Sci ∧ Theoretical CS ∧ Linguistics ∧ Philosophy</h2>
+<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Student + Researcher in Cog-Sci ∧ CS ∧ Linguistics ∧ Philosophy</h2>
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 
