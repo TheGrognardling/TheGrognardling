@@ -75,6 +75,15 @@ I am an undergraduate student building an integrated research framework at the i
 
 ---
 
+
+<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">💻 Other Computational Interests</h2>
+
+<p style="font-family: 'Merriweather', serif;">
+In addition to research pursuits, I maintain active interests in core areas of computer science, including the design and analysis of <b>programming languages</b>, the theory and implementation of <b>compilers</b> and <b>interpreters</b>, <b>operating systems</b> and <b>computer architectures</b>, and <b>artificial intelligence</b>, <b>machine learning</b>, and <b>neural networks</b>. I also engage with the development and structure of <b>computer graphics systems</b> and <b>computer audio systems</b>, focusing on both theoretical foundations and practical applications. All of these (particularly the artificial intelligence side of things) are often in ways that connect to my above main research interests, building a broad and systematic interdisciplinary framework.
+</p>
+
+
+---
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
 
 <p style="font-family: 'Merriweather', serif;">
