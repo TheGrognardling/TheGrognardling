@@ -23,6 +23,9 @@ I am an undergraduate student building an integrated research framework at the i
 - **Philosophy of Computation**  
   Foundational investigations (practical and theoretical) into algorithms, complexity, proof, and information.
 
+- **Artificial Intelligence and Neural Networks**  
+  Theoretical and applied research on machine learning architectures, symbolic-neural hybrid systems, and the philosophical foundations and implications of AI.
+
 ---
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🔬 Current Focus</h3>
@@ -30,6 +33,7 @@ I am an undergraduate student building an integrated research framework at the i
 - Formal cognitive modeling (symbolic and hybrid architectures)  
 - Logical systems (modal logic, type theory, non-classical logics)  
 - Computational foundations of philosophical problems  
+- Neural network architectures and learning dynamics  
 
 ---
 
@@ -52,21 +56,8 @@ I am an undergraduate student building an integrated research framework at the i
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-<!--
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Lisp](https://img.shields.io/badge/Lisp-3FB68B?style=flat-square&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-742083?style=flat-square&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Alloy](https://img.shields.io/badge/Alloy-222222?style=flat-square&logoColor=white)
-![Agda](https://img.shields.io/badge/Agda-0055B7?style=flat-square&logoColor=white)
-![Coq](https://img.shields.io/badge/Coq-8B0000?style=flat-square&logoColor=white)
-![Lean](https://img.shields.io/badge/Lean-3955A3?style=flat-square&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-3982C6?style=flat-square&logo=perl&logoColor=white) 
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-4B6C8B?style=flat-square&logoColor=white) 
-![RISC-V](https://img.shields.io/badge/RISC--V-0C3F6A?style=flat-square&logo=riscv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
--->
+
+---
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🎓 Stuff I'm Learning</h3>
 
@@ -87,20 +78,19 @@ I am an undergraduate student building an integrated research framework at the i
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌱 Academic Trajectory</h3>
 
 - Building interdisciplinary expertise across cognitive science, philosophy, linguistics, and computer science.
-- Preparing for graduate research in formal methods, cognitive modeling, and computational philosophy.
+- Preparing for graduate research in formal methods, cognitive modeling, artificial intelligence, and computational philosophy.
 - Committed to bridging rigorous conceptual inquiry with technical modeling.
 
 ---
 
-
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">💻 Other Computational Interests</h3>
 
 <p style="font-family: 'Merriweather', serif;">
-In addition to research pursuits, I maintain active interests in core areas of computer science, including the design and analysis of <b>programming languages</b>, the theory and implementation of <b>compilers</b> and <b>interpreters</b>, <b>operating systems</b> and <b>computer architectures</b>, and <b>artificial intelligence</b>, <b>machine learning</b>, and <b>neural networks</b>. I also engage with the development and structure of <b>computer graphics systems</b> and <b>computer audio systems</b>, focusing on both theoretical foundations and practical applications. All of these (particularly the artificial intelligence side of things) are often in ways that connect to my above main research interests, building a broad and systematic interdisciplinary framework.
+Beyond my primary research areas, I actively explore the design and analysis of <b>programming languages</b>, <b>compiler construction</b>, <b>operating systems</b>, and <b>computer architectures</b>. I also engage with <b>computer graphics systems</b> and <b>computer audio systems</b>, emphasizing both theoretical foundations and practical applications. Additionaly, I have begun exploring <b>information theory</b> and the <b>systems</b> it has and can inspire.
 </p>
 
-
 ---
+
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
 
 <p style="font-family: 'Merriweather', serif;">
