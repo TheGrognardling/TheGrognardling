@@ -74,9 +74,9 @@ I am an undergraduate student building an integrated research framework at the i
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-002F6C?style=flat-square&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
@@ -104,5 +104,5 @@ In addition to research pursuits, I maintain active interests in core areas of c
 <h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
 
 <p style="font-family: 'Merriweather', serif;">
-To contribute to a deeper understanding of cognition, computation, language, and reasoning through a blend of <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
+To contribute to a deeper understanding of cognition, computation, language, and reasoning through a blend of <b>project building</b>, <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
 </p>
