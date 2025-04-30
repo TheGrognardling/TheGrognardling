@@ -89,11 +89,3 @@ I am an undergraduate student building an integrated research framework at the i
 <p style="font-family: 'Merriweather', serif;">
 Beyond my primary research areas, I actively explore the design and analysis of <b>programming languages</b>, <b>compiler construction</b>, <b>operating systems</b>, and <b>computer architectures</b>. I also engage with <b>computer graphics systems</b> and <b>computer audio systems</b>, emphasizing both theoretical foundations and practical applications. Additionaly, I have begun exploring <b>information theory</b> and the <b>systems</b> it has and can inspire, as well as <b>quantum computing.</b>
 </p>
-
----
-
-<h2 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌐 Long-Term Vision</h2>
-
-<p style="font-family: 'Merriweather', serif;">
-To contribute to a deeper understanding of cognition, computation, language, and reasoning through a blend of <b>project building</b>, <b>formal rigor</b>, <b>philosophical clarity</b>, and <b>interdisciplinary integration</b>.
-</p>
