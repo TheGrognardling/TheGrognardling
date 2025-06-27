@@ -7,7 +7,7 @@
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 
 <p style="font-family: 'Merriweather', serif;">
-I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>.
+I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>, with a particular focus on language and humanistic data through <b>computational linguistics</b> and <b>digital humanities</b>.
 </p>
 
 ---
@@ -26,6 +26,9 @@ I am an undergraduate student building an integrated research framework at the i
 - **Artificial Intelligence and Neural Networks**  
   Theoretical and applied research on machine learning architectures, neuro-symbolic hybrid systems, and the philosophical foundations and implications of AI.
 
+- **Computational Linguistics & Digital Humanities**  
+  Formal and statistical approaches to natural language—syntax, semantics, and pragmatics—integrated with digital analysis of cultural and historical corpora. Topics include grammar formalisms, corpus linguistics, semantic modeling, and stylometry. Emphasis on combining computational precision with interpretive depth in the analysis of texts, language, and culture.
+
 ---
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🔬 Current Focus</h3>
@@ -33,8 +36,10 @@ I am an undergraduate student building an integrated research framework at the i
 - Formal cognitive modeling (symbolic and hybrid architectures)  
 - Logical systems (modal logic, type theory, non-classical logics)  
 - Computational foundations of philosophical problems  
-- Neural network architectures and learning dynamics
-- Applications of the above to various fields, such as law, business, and education
+- Neural network architectures and learning dynamics  
+- Corpus-based models in computational linguistics  
+- Textual data analysis in digital humanities  
+- Applications of formal and computational methods in linguistics, philosophy, and humanities research
 
 ---
 
@@ -78,14 +83,14 @@ I am an undergraduate student building an integrated research framework at the i
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌱 Academic Trajectory</h3>
 
-- Building interdisciplinary expertise across cognitive science, philosophy, linguistics, and computer science.
-- Preparing for graduate research in formal methods, cognitive modeling, artificial intelligence, and computational philosophy.
-- Committed to bridging rigorous conceptual inquiry with technical modeling.
+- Building interdisciplinary expertise across cognitive science, philosophy, linguistics, and computer science  
+- Preparing for graduate research in formal methods, cognitive modeling, artificial intelligence, and computational philosophy  
+- Integrating computational methods with philosophical analysis and humanistic interpretation
 
 ---
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">💻 Other Computational Interests</h3>
 
 <p style="font-family: 'Merriweather', serif;">
-Beyond my primary research areas, I actively explore the design and analysis of <b>programming languages</b>, <b>compiler construction</b>, <b>operating systems</b>, and <b>computer architectures</b>. I also engage with <b>computer graphics systems</b> and <b>computer audio systems</b>, emphasizing both theoretical foundations and practical applications. Additionaly, I have begun exploring <b>information theory</b> and the <b>systems</b> it has and can inspire, as well as <b>quantum computing.</b> I also engage in <b>game development</b>, and apply insights and developments from my other areas of research, practice, and pursuit to such projects.
+Beyond my primary research areas, I actively explore the design and analysis of <b>programming languages</b>, <b>compiler construction</b>, <b>operating systems</b>, and <b>computer architectures</b>. I also engage with <b>computer graphics systems</b> and <b>computer audio systems</b>, emphasizing both theoretical foundations and practical applications. Additionally, I have begun exploring <b>information theory</b> and the <b>systems</b> it has and can inspire, as well as <b>quantum computing</b>. I also engage in <b>game development</b>, and apply insights and developments from my other areas of research, practice, and pursuit to such projects.
 </p>
