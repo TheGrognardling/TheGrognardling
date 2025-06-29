@@ -27,7 +27,7 @@ I am an undergraduate student building an integrated research framework at the i
   Theoretical and applied research on machine learning architectures, neuro-symbolic hybrid systems, and the philosophical foundations and implications of AI.
 
 - **Computational Linguistics & Digital Humanities**  
-  Formal and statistical approaches to natural language—syntax, semantics, and pragmatics—integrated with digital analysis of cultural and historical corpora. Topics include grammar formalisms, corpus linguistics, semantic modeling, and stylometry. Emphasis on combining computational precision with interpretive depth in the analysis of texts, language, and culture.
+  Formal and statistical approaches to natural language—syntax, semantics, and pragmatics—integrated with digital analysis of cultural and historical corpora.
 
 ---
 
