@@ -5,43 +5,8 @@
 <h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Student + Researcher in Cog-Sci ∧ CS ∧ Linguistics ∧ Philosophy</h2>
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
-
-<p style="font-family: 'Merriweather', serif;">
-I am an undergraduate student building an integrated research framework at the intersection of <b>cognitive science</b>, <b>computer science</b>, <b>linguistics</b>, and <b>philosophy</b>, connecting <b>formal modeling</b>, <b>computational methods</b>, and <b>conceptual analysis</b>, with a particular focus on language and humanistic data through <b>computational linguistics</b> and <b>digital humanities</b>.
-</p>
-
----
-
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🧠 Research Interests</h3>
-
-- **Formalization of Cognition**  
-  Mathematical and computational models of inference, learning, perception, language, and decision-making.
-
-- **Computational Philosophy**  
-  Algorithmic and formal approaches to metaphysics, epistemology, philosophy of language, and philosophy of mind.
-
-- **Philosophy of Computation**  
-  Foundational investigations (practical and theoretical) into algorithms, complexity, proof, and information, and associated mathematical foundations and implications therein.
-
-- **Artificial Intelligence and Neural Networks**  
-  Theoretical and applied research on machine learning architectures, neuro-symbolic hybrid systems, and the philosophical foundations and implications of AI.
-
-- **Computational Linguistics & Digital Humanities**  
-  Formal and statistical approaches to natural language—syntax, semantics, and pragmatics—integrated with digital analysis of cultural and historical corpora.
-
----
-
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🔬 Current Focus</h3>
-
-- Formal cognitive modeling (symbolic and hybrid architectures)  
-- Logical systems (modal logic, type theory, non-classical logics)  
-- Computational foundations of philosophical problems  
-- Neural network architectures and learning dynamics  
-- Corpus-based models in computational linguistics  
-- Textual data analysis in digital humanities  
-- Applications of formal and computational methods in linguistics, philosophy, and humanities research
-
----
+> 
+I’m an undergraduate aspiring to develop integrative systems at the intersection of cognitive science, computer science, linguistics, philosophy, and mathematics, with the goal of understanding how meaning, inference, and representation emerge across minds and machines. I’m especially interested in exploring how formal logic, semantic structure, and cognitive architecture can inform one another—through symbolic and neuro-symbolic models grounded in type theory, category theory, and compositional semantics. I aim to investigate how linguistic typology, language evolution, and computational philosophy can shape the design of more interpretable, structure-sensitive systems. My long-term goal is to build tools, models, and interfaces that help make reasoning and language more legible—across languages, domains, and architectures.
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h3>
 
@@ -80,17 +45,22 @@ I am an undergraduate student building an integrated research framework at the i
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
 ---
+## 🎓 Academic Trajectory
 
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🌱 Academic Trajectory</h3>
-
-- Building interdisciplinary expertise across cognitive science, philosophy, linguistics, and computer science  
-- Preparing for graduate research in formal methods, cognitive modeling, artificial intelligence, and computational philosophy  
-- Integrating computational methods with philosophical analysis and humanistic interpretation
-
+- Synthesizing formal methods, cognitive science, and symbolic systems  
+- Preparing for graduate research in logic, language, cognition, and AI  
+- Developing tools that unify epistemic clarity, computational rigor, and philosophical depth  
+- Bridging typology, historical linguistics, and NLP through structured models of meaning
+  
 ---
 
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">💻 Other Computational Interests</h3>
+## 💻 Auxiliary Computational Interests
 
-<p style="font-family: 'Merriweather', serif;">
-Beyond my primary research areas, I actively explore the design and analysis of <b>programming languages</b>, <b>compiler construction</b>, <b>operating systems</b>, and <b>computer architectures</b>. I also engage with <b>computer graphics systems</b> and <b>computer audio systems</b>, emphasizing both theoretical foundations and practical applications. Additionally, I have begun exploring <b>information theory</b> and the <b>systems</b> it has and can inspire, as well as <b>quantum computing</b>. I also engage in <b>game development</b>, as well as related game modding and lore-based projects, and apply insights and developments from my other areas of research, practice, and pursuit to such projects.
+- Programming languages: design, semantics, and compiler construction  
+- Operating systems and low-level architecture  
+- Information theory and epistemic compression  
+- Game development and interactive systems (especially RPG systems, lore, and emergent behavior)  
+- Audio synthesis, sound engines, and digital media systems  
+- Semantic and cognitive toolmaking for scholars and general users alike
+
 </p>
