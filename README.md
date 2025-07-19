@@ -56,11 +56,8 @@ I’m an undergraduate aspiring to develop integrative systems at the intersecti
 
 ## 💻 Auxiliary Computational Interests
 
-- Programming languages: design, semantics, and compiler construction  
-- Operating systems and low-level architecture  
-- Information theory and epistemic compression  
+- Programming languages - design, semantics, and compiler construction - and operating systems and low-level architecture  
 - Game development and interactive systems (especially RPG systems, lore, and emergent behavior)  
 - Audio synthesis, sound engines, and digital media systems  
-- Semantic and cognitive toolmaking for scholars and general users alike
 
 </p>
