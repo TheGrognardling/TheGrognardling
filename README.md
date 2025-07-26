@@ -6,7 +6,22 @@
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 > 
-I’m an undergraduate aspiring to develop integrative systems at the intersection of cognitive science, computer science, linguistics, philosophy, and mathematics, with the goal of understanding how meaning, inference, and representation emerge across minds and machines. I’m especially interested in exploring how formal logic, semantic structure, and cognitive architecture can inform one another—through symbolic and neuro-symbolic models grounded in type theory, category theory, and compositional semantics. I aim to investigate how linguistic typology, language evolution, and computational philosophy can shape the design of more interpretable, structure-sensitive systems. My long-term goal is to build tools, models, and interfaces that help make reasoning and language more legible—across languages, domains, and architectures.
+- Undergraduate researcher at the intersection of **cognitive science**, **computer science**, **linguistics**, **philosophy**, and **mathematics**  
+- Investigating how **meaning, inference, and representation** emerge across minds and machines  
+- Focused on:
+  - **Formal logic**, **semantic structure**, and **cognitive architecture**  
+  - Symbolic and neuro-symbolic models grounded in type theory, category theory, and compositional semantics  
+  - Computational philosophy and linguistic typology as foundations for interpretable systems
+
+- Exploring interactive and generative systems as cognitive testbeds:
+  - **RPG systems**, **emergent behavior**, and **world modeling** as experimental substrates  
+  - **Generative dialogue systems** and **character agents** for simulating structured language and inference  
+  - **Genre modeling**, **hallucination control**, and **multi-agent interaction** as mechanisms for grounding narrative coherence  
+  - Treating these domains as spaces to examine semantic generalization, typological variation, and historical abstraction
+
+- Research goals:
+  - Build tools and models that make **reasoning** and **language** more legible across languages, architectures, and timelines  
+  - Develop systems that balance **epistemic clarity**, **narrative flexibility**, and **logical structure**
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h3>
 
@@ -45,19 +60,20 @@ I’m an undergraduate aspiring to develop integrative systems at the intersecti
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
 ---
+
 ## 🎓 Academic Trajectory
 
 - Synthesizing formal methods, cognitive science, and symbolic systems  
 - Preparing for graduate research in logic, language, cognition, and AI  
 - Developing tools that unify epistemic clarity, computational rigor, and philosophical depth  
-- Bridging typology, historical linguistics, and NLP through structured models of meaning
-  
+- Bridging typology, historical linguistics, and NLP through structured models of meaning and interactive simulation  
+
 ---
 
 ## 💻 Auxiliary Computational Interests
 
-- Programming languages - design, semantics, and compiler construction - and operating systems and low-level architecture  
-- Game development and interactive systems (especially RPG systems, lore, and emergent behavior)  
+- Programming languages – design, semantics, and compiler construction  
+- Operating systems and low-level architecture  
+- Game development and simulation systems  
 - Audio synthesis, sound engines, and digital media systems  
-
-</p>
+- **Computer graphics** – procedural generation, rendering pipelines, and visual storytelling  
