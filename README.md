@@ -6,22 +6,14 @@
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 > 
-- Undergraduate researcher at the intersection of **cognitive science**, **computer science**, **linguistics**, **philosophy**, and **mathematics**  
-- Investigating how **meaning, inference, and representation** emerge across minds and machines  
-- Focused on:
-  - **Formal logic**, **semantic structure**, and **cognitive architecture**  
-  - Symbolic and neuro-symbolic models grounded in type theory, category theory, and compositional semantics  
-  - Computational philosophy and linguistic typology as foundations for interpretable systems
-
-- Exploring interactive and generative systems as cognitive testbeds:
-  - **RPG systems**, **emergent behavior**, and **world modeling** as experimental substrates  
-  - **Generative dialogue systems** and **character agents** for simulating structured language and inference  
-  - **Genre modeling**, **hallucination control**, and **multi-agent interaction** as mechanisms for grounding narrative coherence  
-  - Treating these domains as spaces to examine semantic generalization, typological variation, and historical abstraction
-
-- Research goals:
-  - Build tools and models that make **reasoning** and **language** more legible across languages, architectures, and timelines  
-  - Develop systems that balance **epistemic clarity**, **narrative flexibility**, and **logical structure**
+- Undergraduate researcher focused on how **meaning, inference, and representation** emerge across minds and machines  
+- Synthesizing **formal logic**, **semantic structure**, and **cognitive architecture** through symbolic and neuro-symbolic models grounded in **type theory**, **category theory**, and **compositional semantics**  
+- Investigating how **linguistic typology**, **language evolution**, and **computational philosophy** can inform interpretable, structure-sensitive systems  
+- Applying these foundations to:
+  - **Generative dialogue systems**, **character agents**, and **genre modeling**  
+  - **RPG mechanics**, **emergent behavior**, and **interactive worldbuilding**  
+  - Modeling narrative coherence, semantic control, and typological variation in simulated environments  
+- Long-term goal: build tools and frameworks that unify reasoning, language, and simulation across architectures and timelines
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h3>
 
@@ -74,6 +66,5 @@
 
 - Programming languages – design, semantics, and compiler construction  
 - Operating systems and low-level architecture  
-- Game development and simulation systems  
 - Audio synthesis, sound engines, and digital media systems  
-- **Computer graphics** – procedural generation, rendering pipelines, and visual storytelling  
+- Computer graphics – procedural generation, rendering pipelines, and visual storytelling  
