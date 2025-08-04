@@ -1,19 +1,29 @@
 <h1 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;"><b>
-👋 Hey there, I’m Thomas (@TheGrognardling)
-</b></h1>
+# 👋 Hi, I’m Thomas (@TheGrognardling)
 
-<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🚀 Student + Researcher + Developer
+**Student · Researcher · Developer**  
+$$\forall x \in \text{Ideas},\ \exists y \in \text{Code} \text{ such that } y \approx x$$
 
-> $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
-> 
-- Undergraduate researcher focused on how **meaning, inference, and representation** emerge across minds and machines  
-- Synthesizing **formal logic**, **semantic structure**, and **cognitive architecture** through symbolic and neuro-symbolic models grounded in **type theory**, **category theory**, and **compositional semantics**  
-- Investigating how **linguistic typology**, **language evolution**, and **computational philosophy** can inform interpretable, structure-sensitive systems  
-- Applying these foundations to:
-  - **Generative dialogue systems**, **character agents**, and **genre modeling**  
-  - **RPG mechanics**, **emergent behavior**, and **interactive worldbuilding**  
-  - Modeling narrative coherence, semantic control, and typological variation in simulated environments  
-- Long-term goal: build tools and frameworks that unify reasoning, language, and simulation across architectures and timelines
+I build bridges between abstract ideas and working systems—exploring how **meaning**, **inference**, and **representation** arise in both minds and machines.
+
+## 🧠 Research Focus
+My work centers on developing **interpretable, structure-sensitive models** by combining:
+
+- **Formal logic** and **semantic theory**
+- **Cognitive architectures** and **neuro-symbolic systems**
+- Foundations in **type theory**, **category theory**, and **compositional semantics**
+
+I draw from **linguistic typology**, **language evolution**, and **computational philosophy** to inform architectures that reason, learn, and communicate with clarity and depth.
+
+## 🧪 Applied Directions
+These foundations support my applied work in:
+
+- **Generative agents** for dialogue and character interaction  
+- **Game systems** featuring emergent behavior and dynamic worldbuilding  
+- **Narrative modeling** with control over coherence, semantics, and typological diversity
+
+## 🌐 Long-Term Vision
+To design cross-domain frameworks that **unify reasoning, language, and simulation**—enabling systems that think and communicate with contextual awareness, creative fluency, and structural integrity.
 
 <h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h3>
 
