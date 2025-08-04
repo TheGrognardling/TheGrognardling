@@ -1,31 +1,44 @@
-<h1 align="center" style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;"><b>
 # 👋 Hi, I’m Thomas (@TheGrognardling)
 
-**Student · Researcher · Developer**  
+**Student · Aspiring Researcher · Developer**  
 $$\forall x \in \text{Ideas},\ \exists y \in \text{Code} \text{ such that } y \approx x$$
 
-I build bridges between abstract ideas and working systems—exploring how **meaning**, **inference**, and **representation** arise in both minds and machines.
+I'm a student exploring how **structured meaning emerges**—across logic, language, and simulation—and how we can build systems that reflect it with clarity, creativity, and rigor.
 
-## 🧠 Research Focus
-My work centers on developing **interpretable, structure-sensitive models** by combining:
+---
 
-- **Formal logic** and **semantic theory**
-- **Cognitive architectures** and **neuro-symbolic systems**
-- Foundations in **type theory**, **category theory**, and **compositional semantics**
+## 🧠 Focus Areas
 
-I draw from **linguistic typology**, **language evolution**, and **computational philosophy** to inform architectures that reason, learn, and communicate with clarity and depth.
+I'm currently building a foundation for graduate research by combining:
 
-## 🧪 Applied Directions
-These foundations support my applied work in:
+- **Formal semantics**, **type theory**, and **category theory**  
+- **Cognitive architectures** and **symbolic/neuro-symbolic reasoning**  
+- **Linguistic typology**, **language evolution**, and **computational philosophy**
 
-- **Generative agents** for dialogue and character interaction  
-- **Game systems** featuring emergent behavior and dynamic worldbuilding  
-- **Narrative modeling** with control over coherence, semantics, and typological diversity
+My goal is to design **interpretable, structure-sensitive systems** that unify language, logic, and simulation.
 
-## 🌐 Long-Term Vision
-To design cross-domain frameworks that **unify reasoning, language, and simulation**—enabling systems that think and communicate with contextual awareness, creative fluency, and structural integrity.
+---
 
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🛠 Technical Proficiencies</h3>
+## 🛠 Applications in Progress
+
+I'm applying these foundations to:
+
+- **Generative agents** and typologically-aware dialogue systems  
+- **Interactive simulations** with emergent behavior and semantic variation  
+- **Narrative modeling** that captures coherence, control, and cultural structure
+
+---
+
+## 🎯 Academic Trajectory
+
+- Synthesizing formal methods, cognitive science, and symbolic systems  
+- Preparing for graduate research in **logic**, **language**, **cognition**, and **AI**  
+- Bridging **typology**, **historical linguistics**, and **NLP** through structured meaning models  
+- Developing tools that unify **epistemic clarity**, **computational rigor**, and **philosophical depth**
+
+---
+
+## 💻 Technical Proficiencies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -47,14 +60,14 @@ To design cross-domain frameworks that **unify reasoning, language, and simulati
 
 ---
 
-<h3 style="font-family: 'Fira Sans', 'Segoe UI', sans-serif;">🎓 Stuff I'm Learning</h3>
+## 📚 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-002F6C?style=flat-square&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) 
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -63,18 +76,9 @@ To design cross-domain frameworks that **unify reasoning, language, and simulati
 
 ---
 
-## 🎓 Academic Trajectory
+## 🧩 Broader Computational Interests
 
-- Synthesizing formal methods, cognitive science, and symbolic systems  
-- Preparing for graduate research in logic, language, cognition, and AI  
-- Developing tools that unify epistemic clarity, computational rigor, and philosophical depth  
-- Bridging typology, historical linguistics, and NLP through structured models of meaning and interactive simulation  
-
----
-
-## 💻 Auxiliary Computational Interests
-
-- Programming languages – design, semantics, and compiler construction  
-- Operating systems and low-level architecture  
-- Audio synthesis, sound engines, and digital media systems  
-- Computer graphics – procedural generation, rendering pipelines, and visual storytelling  
+- **Programming languages** — design, semantics, compilers  
+- **Operating systems** — low-level architecture, systems programming  
+- **Computer graphics** — procedural generation, rendering, and visual storytelling  
+- **Digital media & sound** — synthesis, sound engines, and interactive audio
