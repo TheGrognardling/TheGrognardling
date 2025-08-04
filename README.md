@@ -1,36 +1,30 @@
 # 👋 Hi, I’m Thomas (@TheGrognardling)  
 **Student · Early-Stage Systems Thinker**
 
-I'm exploring how **language**, **logic**, and **simulation** intersect—especially how structured meaning might emerge in constrained, embodied, or symbolic systems.
-
-This work is early-stage, but rooted in a long-term goal: to build systems that reason, communicate, and adapt with structure and interpretability.
+Exploring how **language**, **logic**, and **simulation** interact.
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 Interests
 
-- Formal semantics · Type theory · Symbolic reasoning  
-- Cognitive architectures · Linguistic typology · Emergent communication  
-- Low-level runtimes · DSLs · Simulation environments
-
----
-
-## 🧪 Current Directions
-
-- Minimal LLM runtimes with symbolic memory  
-- Compiled DSLs for agent reasoning and dialogue  
-- Prototype simulations with emergent or constrained language  
-- Embedded NLP on resource-limited systems
+- Formal semantics · Symbolic reasoning · Typology  
+- Agent simulation · Embedded NLP · DSLs + runtimes
 
 ---
 
-## 🎯 Long-Term Questions
+## 🛠 Early Projects
 
-- How does meaning emerge in agents under constraint?  
-- Can language, logic, and simulation be unified systemically?  
-- What does interpretability look like at runtime?
+- LLM runtimes with symbolic overlays  
+- DSLs for dialogue + belief  
+- Emergent agents in constrained environments
 
-> Still early—building the mental models and tools to ask better questions.
+---
+
+## 🎯 Long-Term
+
+How do systems **form**, **use**, and **revise** meaning?
+
+> Still building foundations - both conceptual and technical.
 
 ---
 
