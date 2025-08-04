@@ -1,40 +1,39 @@
-# 👋 Hi, I’m Thomas (@TheGrognardling)
+# 👋 Hi, I’m Thomas (@TheGrognardling)  
+**Student · Research-Oriented Developer**  
+$$\forall x \in \text{Meaning},\ \exists y \in \text{System} \text{ such that } y \vDash x$$
 
-**Student · Aspiring Researcher · Developer**  
-$$\forall x \in \text{Ideas},\ \exists y \in \text{Code} \text{ such that } y \approx x$$
-
-I'm a student exploring how **structured meaning emerges**—across logic, language, and simulation—and how we can build systems that reflect it with clarity, creativity, and rigor.
-
----
-
-## 🧠 Focus Areas
-
-I'm currently building a foundation for graduate research by combining:
-
-- **Formal semantics**, **type theory**, and **category theory**  
-- **Cognitive architectures** and **symbolic/neuro-symbolic reasoning**  
-- **Linguistic typology**, **language evolution**, and **computational philosophy**
-
-My goal is to design **interpretable, structure-sensitive systems** that unify language, logic, and simulation.
+I study how **language and structure emerge** in interactive, resource-constrained systems—combining formal semantics, runtime engineering, and agent simulation.
 
 ---
 
-## 🛠 Applications in Progress
+## 🧠 Foundations
 
-I'm applying these foundations to:
+- **Formal semantics**, **type theory**, **category theory**  
+- **Symbolic + neuro-symbolic reasoning**  
+- **Linguistic typology**, **language evolution**, **simulation logic**
 
-- **Generative agents** and typologically-aware dialogue systems  
-- **Interactive simulations** with emergent behavior and semantic variation  
-- **Narrative modeling** that captures coherence, control, and cultural structure
+These guide how I model **meaning**, **belief**, and **interpretability** in agents.
 
 ---
 
-## 🎯 Academic Trajectory
+## 🛠 Research Focus
 
-- Synthesizing formal methods, cognitive science, and symbolic systems  
-- Preparing for graduate research in **logic**, **language**, **cognition**, and **AI**  
-- Bridging **typology**, **historical linguistics**, and **NLP** through structured meaning models  
-- Developing tools that unify **epistemic clarity**, **computational rigor**, and **philosophical depth**
+I’m building systems that integrate:
+
+- **Lightweight LLM runtimes** with symbolic memory and planning  
+- **Compiled DSLs** for dialogue, goal logic, and semantic roles  
+- **Multi-agent simulations** with emergent language and constrained cognition  
+- **Embedded NLP** on microcontrollers and real-time platforms
+
+---
+
+## 🎯 Trajectory
+
+- Unifying **language**, **logic**, and **simulation** through system design  
+- Developing interpretable agent architectures across compiler and runtime layers  
+- Preparing for graduate research in **AI**, **cognition**, and **computational semantics**
+
+---
 
 ---
 
