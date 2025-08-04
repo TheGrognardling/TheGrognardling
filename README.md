@@ -1,39 +1,36 @@
 # 👋 Hi, I’m Thomas (@TheGrognardling)  
-**Student · Research-Oriented Developer**  
-$$\forall x \in \text{Meaning},\ \exists y \in \text{System} \text{ such that } y \vDash x$$
+**Student · Early-Stage Systems Thinker**
 
-I study how **language and structure emerge** in interactive, resource-constrained systems—combining formal semantics, runtime engineering, and agent simulation.
+I'm exploring how **language**, **logic**, and **simulation** intersect—especially how structured meaning might emerge in constrained, embodied, or symbolic systems.
 
----
-
-## 🧠 Foundations
-
-- **Formal semantics**, **type theory**, **category theory**  
-- **Symbolic + neuro-symbolic reasoning**  
-- **Linguistic typology**, **language evolution**, **simulation logic**
-
-These guide how I model **meaning**, **belief**, and **interpretability** in agents.
+This work is early-stage, but rooted in a long-term goal: to build systems that reason, communicate, and adapt with structure and interpretability.
 
 ---
 
-## 🛠 Research Focus
+## 🧠 Focus Areas
 
-I’m building systems that integrate:
-
-- **Lightweight LLM runtimes** with symbolic memory and planning  
-- **Compiled DSLs** for dialogue, goal logic, and semantic roles  
-- **Multi-agent simulations** with emergent language and constrained cognition  
-- **Embedded NLP** on microcontrollers and real-time platforms
+- Formal semantics · Type theory · Symbolic reasoning  
+- Cognitive architectures · Linguistic typology · Emergent communication  
+- Low-level runtimes · DSLs · Simulation environments
 
 ---
 
-## 🎯 Trajectory
+## 🧪 Current Directions
 
-- Unifying **language**, **logic**, and **simulation** through system design  
-- Developing interpretable agent architectures across compiler and runtime layers  
-- Preparing for graduate research in **AI**, **cognition**, and **computational semantics**
+- Minimal LLM runtimes with symbolic memory  
+- Compiled DSLs for agent reasoning and dialogue  
+- Prototype simulations with emergent or constrained language  
+- Embedded NLP on resource-limited systems
 
 ---
+
+## 🎯 Long-Term Questions
+
+- How does meaning emerge in agents under constraint?  
+- Can language, logic, and simulation be unified systemically?  
+- What does interpretability look like at runtime?
+
+> Still early—building the mental models and tools to ask better questions.
 
 ---
 
