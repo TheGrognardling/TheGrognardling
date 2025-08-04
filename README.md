@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Thomas (@TheGrognardling)  
 **Student · Early-Stage Systems Thinker**
 
+> $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
+> 
+
 Exploring how **language**, **logic**, and **simulation** interact - across time, context, and system boundaries.
 
 ---
