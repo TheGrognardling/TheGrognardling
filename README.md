@@ -1,22 +1,24 @@
 # 👋 Hi, I’m Thomas (@TheGrognardling)  
 **Student · Early-Stage Systems Thinker**
 
-Exploring how **language**, **logic**, and **simulation** interact.
+Exploring how **language**, **logic**, and **simulation** interact - across time, context, and system boundaries.
 
 ---
 
 ## 🧠 Interests
 
-- Formal semantics · Symbolic reasoning · Typology  
-- Agent simulation · Embedded NLP · DSLs + runtimes
-
+- Formal semantics · Symbolic reasoning · Typology
+- Language evolution · Diachronic semantics · Historical typology
+- Agent simulation · Embedded NLP · DSLs + runtimes  
+  
 ---
 
 ## 🛠 Early Projects
 
 - LLM runtimes with symbolic overlays  
-- DSLs for dialogue + belief  
-- Emergent agents in constrained environments
+- DSLs for dialogue + belief
+- Prototype systems modeling reanalysis, grammaticalization, and semantic drift
+- Emergent agents in constrained environments  
 
 ---
 
@@ -24,7 +26,7 @@ Exploring how **language**, **logic**, and **simulation** interact.
 
 How do systems **form**, **use**, and **revise** meaning?
 
-> Still building foundations - both conceptual and technical.
+> Still building foundations - both conceptual and technical.  
 
 ---
 
@@ -70,5 +72,7 @@ How do systems **form**, **use**, and **revise** meaning?
 
 - **Programming languages** — design, semantics, compilers  
 - **Operating systems** — low-level architecture, systems programming  
-- **Computer graphics** — procedural generation, rendering, and visual storytelling  
 - **Digital media & sound** — synthesis, sound engines, and interactive audio
+- **Computer graphics** — procedural generation, rendering, and visual storytelling    
+- **Game design & simulation** — systems thinking, mechanics, and emergent behavior  
+- **Narrative worldbuilding** — semantic scaffolding, lore consistency, and dynamic meaning-making
