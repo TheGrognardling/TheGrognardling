@@ -1,35 +1,17 @@
 # 👋 Hi, I’m Thomas (@TheGrognardling)  
-**Student · Early-Stage Systems Thinker**
+**Student · Researcher · Tinkerer · Hacker**
 
 > $$\displaystyle \forall x \left( (x \in \text{Ideas}) \rightarrow (\exists y (y \in \text{Code} \land y \approx x)) \right)$$
 > 
-
-Exploring how **language**, **logic**, and **simulation** interact - across time, context, and system boundaries.
-
 ---
 
-## 🧠 Interests
+## 🧠 Research Interests
 
-- Formal semantics · Symbolic reasoning · Typology
-- Language evolution · Diachronic semantics · Historical typology
-- Agent simulation · Embedded NLP · DSLs + runtimes  
+- **Formal semantics · Symbolic reasoning · Typology · Language evolution · Agent simulation · Embedded NLP · DSLs + runtimes** 
   
----
+## 🧩 Broader Computational Interests
 
-## 🛠 Early Projects
-
-- LLM runtimes with symbolic overlays  
-- DSLs for dialogue + belief
-- Prototype systems modeling reanalysis, grammaticalization, and semantic drift
-- Emergent agents in constrained environments  
-
----
-
-## 🎯 Long-Term
-
-How do systems **form**, **use**, and **revise** meaning?
-
-> Still building foundations - both conceptual and technical.  
+- **Programming languages** · **Operating systems** · **Digital media & sound** · **Computer graphics** · **Game design & simulation**
 
 ---
 
@@ -68,14 +50,3 @@ How do systems **form**, **use**, and **revise** meaning?
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-
----
-
-## 🧩 Broader Computational Interests
-
-- **Programming languages** — design, semantics, compilers  
-- **Operating systems** — low-level architecture, systems programming  
-- **Digital media & sound** — synthesis, sound engines, and interactive audio
-- **Computer graphics** — procedural generation, rendering, and visual storytelling    
-- **Game design & simulation** — systems thinking, mechanics, and emergent behavior  
-- **Narrative worldbuilding** — semantic scaffolding, lore consistency, and dynamic meaning-making
