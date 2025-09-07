@@ -6,7 +6,7 @@
 
 ## 🧠 Research Interests
 
-- **Formal semantics · Symbolic reasoning · Typology · Language evolution · Agent simulation · Embedded NLP · DSLs + runtimes** 
+- **Cognitive architectures · Explainable AI · Neural-symbolic integration · Knowledge graphs · Multi-agent systems · Content provenance** 
   
 ## 🧩 Broader Computational Interests
 
