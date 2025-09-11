@@ -6,7 +6,7 @@
 
 ## 🧠 Research Interests
 
-- **Cognitive architectures · Explainable AI · Neural-symbolic integration · Knowledge graphs · Multi-agent systems · Content provenance** 
+- **Computational Linguistics** • **Semantics & Parsing** • **NLP & Formal Languages** • **Algorithms & Compilers** • **Interpretable AI** • **Knowledge Graphs & Provenance** 
   
 ## 🧩 Broader Computational Interests
 
