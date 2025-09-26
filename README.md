@@ -6,7 +6,7 @@
 
 ## 🧠 Research Interests
 
-- **Computational Linguistics** • **Semantics & Parsing** • **NLP & Formal Languages** • **Algorithms & Compilers** • **Interpretable AI** • **Knowledge Graphs & Provenance** 
+- **Semantics & Parsing** • **NLP & Formal Languages** • **Computational Linguistics**  • **Algorithms & Compilers** • **Interpretable AI** • **Knowledge Graphs & Provenance** 
   
 ## 🧩 Broader Computational Interests
 
