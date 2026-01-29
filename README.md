@@ -4,7 +4,7 @@
 > 
 ---
 
-## 🧠 Research Interests
+## 🧠 Key Research and Project Interests
 
 - **Semantics & Parsing** • **NLP & Formal Languages** • **Computational Linguistics**  • **Algorithms & Compilers** • **Interpretable AI** • **Knowledge Graphs & Provenance** · **Language Implementation** · **Systems Programming** · **Formal Methods** · **Security** 
   
