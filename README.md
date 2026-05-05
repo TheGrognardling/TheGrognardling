@@ -6,7 +6,7 @@
 
 ## 🧠 Key Research and Project Interests
 
-- **Formal Methods** • **Computational Philosophy** • **Semantics & Parsing** • **Computational Cognitive Science** • **Interpretable AI** • **NLP & Formal Languages** • **Computational Linguistics**  • **Algorithms & Compilers** • **Knowledge Graphs & Provenance** • **Language Implementation** • **Programming Languages**
+- **Formal Methods** • **Computational Philosophy and Logic** • **Semantics & Parsing** • **Computational Cognitive Science** • **Interpretable AI** • **NLP & Formal Languages** • **Computational Linguistics**  • **Algorithms & Compilers** • **Knowledge Graphs & Provenance** • **Language Implementation** • **Programming Languages**
   
 ## 🧩 Broader Computational Interests
 
